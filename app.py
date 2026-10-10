@@ -133,4 +133,4 @@ if tep_anh is not None:
         except Exception as e:
             st.error(f"❌ Đã xảy ra lỗi hệ thống nội bộ: {e}")
 
-st.markdown("<div class='footer'>Hệ thống thử nghiệm Nghiên cứu khoa học - Phát triển bởi Nhóm Nghiên cứu AI trường THPT</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>Hệ thống thử nghiệm Nghiên cứu khoa học - Phát triển bởi Nhóm Nghiên cứu AI trường THPT Hoàng Hoa Thám</div>", unsafe_allow_html=True)
