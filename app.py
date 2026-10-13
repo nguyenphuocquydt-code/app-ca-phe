@@ -15,7 +15,8 @@ st.set_page_config(
 ROBOFLOW_API_KEY = "VJBE8s72PByt8YgppZzb" 
 # Model ID cho Version 2 của bạn trên Roboflow
 # MODEL_ID = "caphe/4"  
-MODEL_ID = "phuoc-quy-nguyen-s-workspace/caphe-7-resnet18-t1"
+MODEL_ID = "phuoc-quy-nguyen-s-workspace/caphe-8-resnet18-t1"
+# phuoc-quy-nguyen-s-workspace/caphe-8-resnet18-t1
 # --- Cơ sở dữ liệu kiến thức về bệnh hại cây cà phê ---
 disease_database = {
     'Coffee_Leaf_Rust': {
